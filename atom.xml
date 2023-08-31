@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Max Johnson</title>
+    <link href="https://maxj.phd/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://maxj.phd"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-01-01T00:00:00+00:00</updated>
+    <id>https://maxj.phd/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Redshift for the Greek Alphabet (WIP)</title>
+        <published>2022-01-01T00:00:00+00:00</published>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://maxj.phd/posts/greek/" type="text/html"/>
+        <id>https://maxj.phd/posts/greek/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction-and-references&quot;&gt;Introduction and References&lt;&#x2F;h1&gt;
+&lt;p&gt;In this post I am going to discuss a conjecture of &lt;a href=&quot;https:&#x2F;&#x2F;www.gangeliniknoll.com&#x2F;&quot;&gt;Angelini-Knoll&lt;&#x2F;a&gt; in his paper on &lt;a href=&quot;https:&#x2F;&#x2F;www.ams.org&#x2F;journals&#x2F;tran&#x2F;2023-376-04&#x2F;S0002-9947-2022-08833-4&#x2F;home.html&quot;&gt;detecting beta elements in K-Theory&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Motivic Filtrations on TP&#x2F;TC (WIP)</title>
+        <published>2022-01-01T00:00:00+00:00</published>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://maxj.phd/posts/motfil/" type="text/html"/>
+        <id>https://maxj.phd/posts/motfil/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction-and-references&quot;&gt;Introduction and References&lt;&#x2F;h1&gt;
+&lt;p&gt;In this post I am going to write about a pair of papers, &lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;1802.03261&quot;&gt;BMS2&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2206.11208&quot;&gt;HRW&lt;&#x2F;a&gt; in order to explain the construction of certain filtrations on Topological Cyclic homology for quasisyntomic discrete rings (the BMS paper) and chromatically quasisyntomic commutative ring spectra (the HRW paper).&lt;&#x2F;p&gt;
+&lt;p&gt;The goal of this note is to expand upon some of the constructions in both papers and hopefully provide a useful exposition in the process.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;preliminaries-for-the-discrete-case&quot;&gt;Preliminaries for the Discrete Case&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;reminders-on-thh-tc-and-tp&quot;&gt;Reminders on THH, TC, and TP&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;homotopy-fixed-point-and-tate-spectral-sequences&quot;&gt;Homotopy Fixed Point and Tate Spectral Sequences&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;the-sites-qrsp-and-qsyn&quot;&gt;The sites QRSP and QSyn&lt;&#x2F;h2&gt;
+&lt;h1 id=&quot;preliminaries-for-the-ring-spectrum-case&quot;&gt;Preliminaries for the Ring Spectrum Case&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;chromatically-quasisyntomic-rings&quot;&gt;Chromatically Quasisyntomic Rings&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;a-filtered-model-for-stable-motivic-homotopy&quot;&gt;A Filtered Model for Stable Motivic Homotopy&lt;&#x2F;h2&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>An Exposition on Nilpotence 1 (WIP)</title>
+        <published>2022-01-01T00:00:00+00:00</published>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://maxj.phd/posts/nilp/" type="text/html"/>
+        <id>https://maxj.phd/posts/nilp/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction-and-references&quot;&gt;Introduction and References&lt;&#x2F;h1&gt;
+&lt;p&gt;In this post I am going to try to explain the three step argument of Hopkins-Ravenel-Smith in their celebrated &lt;a href=&quot;https:&#x2F;&#x2F;www.jstor.org&#x2F;stable&#x2F;1971440&quot;&gt;Nilpotence 1&lt;&#x2F;a&gt; paper. Step 3 in particular is easy to get lost in, and much of this post will be dedicated to emphasizing my personal take on which details one should focus on when reading this paper. At the end, I will briefly mention my own work on providing quantitative bounds on nilpotence orders via recursive estimates.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;some-preliminaries&quot;&gt;Some Preliminaries&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;the-proof&quot;&gt;The Proof&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;step-1&quot;&gt;Step 1&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;step-2&quot;&gt;Step 2&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;step-3&quot;&gt;Step 3&lt;&#x2F;h2&gt;
+</content>
+        
+    </entry>
+</feed>
