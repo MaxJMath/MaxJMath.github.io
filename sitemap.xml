@@ -10,6 +10,10 @@
         <loc>https://maxj.phd/posts/</loc>
     </url>
     <url>
+        <loc>https://maxj.phd/posts/defos/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
         <loc>https://maxj.phd/posts/greek/</loc>
         <lastmod>2022-01-01</lastmod>
     </url>
@@ -18,7 +22,7 @@
         <lastmod>2022-01-01</lastmod>
     </url>
     <url>
-        <loc>https://maxj.phd/posts/nilp/</loc>
+        <loc>https://maxj.phd/posts/nilp1/</loc>
         <lastmod>2022-01-01</lastmod>
     </url>
     <url>
